@@ -19,7 +19,7 @@ class Book extends Component {
                                 <div className="imgZone">
                                     <div className="image">
                                         <img className='imagePhoto' src={book.image_url}
-                                             alt={book.title + ' - ' + book.author}/>
+                                             alt={book.title + ' -- ' + book.author}/>
                                     </div>
                                 </div>
                                 <div className="textZone">
