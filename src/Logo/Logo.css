@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'FuturaStd-Medium';
+    src: url('../Assets/fonts/Futura-Std-Medium.otf');
+}
+
+.logoContainer{
+    font-family:'FuturaStd-Medium';
+    width: 150px;
+    font-size:35px;
+    color:#000000;
+    letter-spacing:0;
+    margin-top:25px;
+
+
+}
+.logoContainer .light-blue{
+    color: #03a9f4;
+}
+.logoContainer .light-green{
+    color:#9ed166;
+}

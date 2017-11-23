@@ -1,0 +1,25 @@
+.suggestContainer{
+    display: flex;
+}
+.suggestionTitle{
+    font-family:Roboto-Bold;
+    font-size:20px;
+    color:#a5cd39;
+    line-height:19px;
+
+}
+
+.suggestionsContainer{
+    margin-left:35px;
+}
+
+.suggestions .image{
+    background: #d8d8d8;
+    width: 87px;
+    height: 124px;
+    display: table-cell;
+    vertical-align: middle;
+    float: left;
+    margin-right: 54px;
+}
+

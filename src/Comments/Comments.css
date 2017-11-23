@@ -1,0 +1,21 @@
+.comContainer{
+    display: flex;
+}
+.commentTitle{
+    font-family:Roboto-Bold;
+    font-size:20px;
+    color:#a5cd39;
+    line-height:19px;
+
+}
+
+.commentContainer{
+    margin-left:35px;
+}
+
+.newComment{
+    margin-left:35px;
+}
+.newComment .image{
+
+}
